@@ -22,8 +22,21 @@ h1 {
 
 }
 
+#a1 {
+    margin-left: 22px;
+}
+
+input {
+margin-left: 10px;
+}
+
 #img1 {
 margin-left: 50px;
+}
+
+#img2 {
+margin-left: -513px;
+margin-top: 13px;
 }
 
 body {
@@ -46,8 +59,8 @@ body {
 }
 
 .nav a:hover {
-    background-color: #5c1edd;
-    color: #1424e6;
+    background-color: #4caf50;
+    color: #fffbfb;
 }
 
 .nav a.active {
