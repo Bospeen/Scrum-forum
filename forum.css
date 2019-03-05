@@ -8,11 +8,38 @@ body {
 
 .container {
     border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    font-family: sans-serif;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.container2 {
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    font-family: sans-serif;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.container1 {
+     border-radius: 10px;
+     width: 400px;
+     margin: auto;
+     font-family: sans-serif;
+     background-color: white;
+     margin-top: 70px;
+}
+
+.container3 {
+    border-radius: 10px;
     width: 500px;
     margin: auto;
     font-family: sans-serif;
     background-color: white;
-    margin-top: 180px;
+    margin-top: 10px;
 }
 
 h1 {
@@ -31,7 +58,7 @@ h2 {
 }
 
 h3{
-margin-top: 75px;
+margin-top: 65px;
 }
 
 #a1 {
@@ -68,6 +95,31 @@ margin-left: -500px;
 #img4 {
     margin-top: -3px;
 
+}
+
+#img5 {
+margin-top: -200px;
+margin-left: 295px;
+}
+
+#img6 {
+    margin-top: -290px;
+    margin-left: 310px;
+}
+
+#img7 { 
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+#img8 {
+    margin-top: -400px;
+    margin-left: 295px;
+}
+
+#img9 {
+    margin-top: -300px;
+    margin-left: 295px;
 }
 
 body {
@@ -121,4 +173,15 @@ body {
     .nav input[type=text] {
         border: 1px solid rgb(246, 255, 250);
     }
+}
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+
+input[type=text]:focus {
+    width: 20%;
 }
