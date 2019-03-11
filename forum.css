@@ -6,6 +6,26 @@ body {
     background-image: url("achtergrond_forum.jpg");
 }
 
+h4 {
+    text-align: center;
+    margin-top: -60px;
+}
+
+p{
+margin-left: 140px;
+}
+
+p2{
+    text-align: center;
+}
+
+p3{
+    text-align: center;
+}
+
+p4{
+    text-align: center;
+}
 .container {
     border-radius: 10px;
     width: 700px;
@@ -21,7 +41,7 @@ body {
     margin: auto;
     font-family: sans-serif;
     background-color: white;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .container1 {
@@ -39,7 +59,7 @@ body {
     margin: auto;
     font-family: sans-serif;
     background-color: white;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
 h1 {
@@ -98,7 +118,7 @@ margin-left: -500px;
 }
 
 #img5 {
-margin-top: -200px;
+margin-top: -180px;
 margin-left: 295px;
 }
 
@@ -113,13 +133,18 @@ margin-left: 295px;
 }
 
 #img8 {
-    margin-top: -400px;
-    margin-left: 295px;
+    margin-top: -350px;
+    margin-left: 340px;
 }
 
 #img9 {
-    margin-top: -300px;
+    margin-top: -270px;
     margin-left: 295px;
+}
+
+#img10{
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 body {
